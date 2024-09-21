@@ -1,1 +1,1 @@
-change!
+[コマンド一覧](https://github.com/shugo/textbringer/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E4%B8%80%E8%A6%A7)
